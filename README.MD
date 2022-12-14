@@ -1,1 +1,1 @@
-Este es un cambio de ejemplo
+Este es una practica de la materia Gestiones tecnologicas empresariales de GitHub.
